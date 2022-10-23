@@ -1,16 +1,12 @@
-# bmi
+# BMI
 
 A new Flutter project.
 
 ## Getting Started
+#### To clone the project locally on your machine, copy the URL of this repo and run the following command :
+git clone https://github.com/Hamdi-FAKHFAKH/BMI.git
+#### Demo : 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/98355331/197393153-f3c67311-f470-4967-9a98-645fea7cb3f3.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
